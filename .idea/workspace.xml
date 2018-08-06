@@ -13,13 +13,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Warmup-1/src/monkeyTrouble/Solution.java">
+        <entry file="file://$PROJECT_DIR$/Warmup-1/src/parrotTrouble/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-              <folding>
-                <element signature="e#704#705#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="459">
+              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -46,6 +43,7 @@
         <option value="$PROJECT_DIR$/Warmup-1/src/stringE/Solution.java" />
         <option value="$PROJECT_DIR$/Warmup-1/src/everyNth/Solution.java" />
         <option value="$PROJECT_DIR$/Warmup-1/src/monkeyTrouble/Solution.java" />
+        <option value="$PROJECT_DIR$/Warmup-1/src/parrotTrouble/Solution.java" />
       </list>
     </option>
   </component>
@@ -64,51 +62,37 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Codingbat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codingbat" type="b2602c69:ProjectViewProjectNode" />
               <item name="codingbat" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Codingbat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
-              <item name="Warmup-1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Codingbat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codingbat" type="b2602c69:ProjectViewProjectNode" />
               <item name="codingbat" type="462c0819:PsiDirectoryNode" />
               <item name="Warmup-1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Codingbat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codingbat" type="b2602c69:ProjectViewProjectNode" />
               <item name="codingbat" type="462c0819:PsiDirectoryNode" />
               <item name="Warmup-1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="everyNth" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Codingbat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codingbat" type="b2602c69:ProjectViewProjectNode" />
               <item name="codingbat" type="462c0819:PsiDirectoryNode" />
               <item name="Warmup-1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="monkeyTrouble" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Codingbat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
-              <item name="Warmup-1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="stringE" type="462c0819:PsiDirectoryNode" />
+              <item name="parrotTrouble" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -127,14 +111,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mixStart.Solution" />
+  <component name="RunManager" selected="Application.Solution (1)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parrotTrouble.Solution" />
       <module name="Warmup-1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mixStart.*" />
+          <option name="PATTERN" value="parrotTrouble.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,19 +209,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (4)" />
       <item itemvalue="Application.Solution (5)" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -255,23 +239,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3298292" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32539684" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32457292" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.249375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -290,13 +274,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Warmup-1/src/everyNth/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" lean-forward="true" selection-start-line="23" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Warmup-1/src/everyNth/Solution.java" />
     <entry file="file://$PROJECT_DIR$/Warmup-1/src/stringE/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -374,20 +352,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Warmup-1/src/everyNth/Solution.java">
+    <entry file="file://$PROJECT_DIR$/Warmup-1/src/everyNth/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/Warmup-1/src/monkeyTrouble/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/Warmup-1/src/parrotTrouble/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="31" selection-start-line="23" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Warmup-1/src/monkeyTrouble/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="e#704#705#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="459">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
         </state>
       </provider>
     </entry>
