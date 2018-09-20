@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da938306-57ba-4ce3-9cde-9166e0194d26" name="Default" comment="" />
+    <list default="true" id="da938306-57ba-4ce3-9cde-9166e0194d26" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,10 +15,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Warmup-1/src/sumDouble/Solution.java">
+        <entry file="file://$PROJECT_DIR$/Warmup-1/src/makes10/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#352#353#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,6 +59,7 @@
         <option value="$PROJECT_DIR$/Warmup-1/src/in3050/Solution.java" />
         <option value="$PROJECT_DIR$/Warmup-1/src/lastDigit/Solution.java" />
         <option value="$PROJECT_DIR$/Warmup-1/src/sumDouble/Solution.java" />
+        <option value="$PROJECT_DIR$/Warmup-1/src/makes10/Solution.java" />
       </list>
     </option>
   </component>
@@ -70,6 +77,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -94,82 +102,18 @@
               <item name="codingbat" type="462c0819:PsiDirectoryNode" />
               <item name="Warmup-1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="frontBack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codingbat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
-              <item name="Warmup-1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="icyHot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codingbat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
-              <item name="Warmup-1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="in3050" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codingbat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
-              <item name="Warmup-1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lastDigit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codingbat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
-              <item name="Warmup-1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="loneTeen" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codingbat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
-              <item name="Warmup-1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="or35" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codingbat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
-              <item name="Warmup-1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="parrotTrouble" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codingbat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
-              <item name="Warmup-1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="posNeg" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codingbat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
-              <item name="Warmup-1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="startOz" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codingbat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
-              <item name="Warmup-1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sumDouble" type="462c0819:PsiDirectoryNode" />
+              <item name="makes10" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -183,7 +127,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="startOz.Solution" />
       <module name="Warmup-1" />
@@ -228,13 +172,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loneTeen.Solution" />
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="makes10.Solution" />
       <module name="Warmup-1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loneTeen.*" />
+          <option name="PATTERN" value="makes10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,19 +225,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (4)" />
+      <item itemvalue="Application.Solution (5)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +266,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32457292" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32457292" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -358,6 +302,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Warmup-1/src/sumDouble/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Warmup-1/src/startOz/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -519,17 +470,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-          <folding>
-            <element signature="e#552#553#0" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Warmup-1/src/sumDouble/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Warmup-1/src/makes10/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
