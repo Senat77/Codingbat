@@ -15,14 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Warmup-1/src/makes10/Solution.java">
+        <entry file="file://$PROJECT_DIR$/Warmup-1/src/notString/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#299#300#0" expanded="true" />
-                <element signature="e#352#353#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -60,6 +56,7 @@
         <option value="$PROJECT_DIR$/Warmup-1/src/lastDigit/Solution.java" />
         <option value="$PROJECT_DIR$/Warmup-1/src/sumDouble/Solution.java" />
         <option value="$PROJECT_DIR$/Warmup-1/src/makes10/Solution.java" />
+        <option value="$PROJECT_DIR$/Warmup-1/src/notString/Solution.java" />
       </list>
     </option>
   </component>
@@ -102,7 +99,7 @@
               <item name="codingbat" type="462c0819:PsiDirectoryNode" />
               <item name="Warmup-1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="makes10" type="462c0819:PsiDirectoryNode" />
+              <item name="notString" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -127,18 +124,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (5)">
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="startOz.Solution" />
-      <module name="Warmup-1" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="startOz.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="in3050.Solution" />
       <module name="Warmup-1" />
@@ -179,6 +165,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="makes10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="notString.Solution" />
+      <module name="Warmup-1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="notString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,19 +222,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (4)" />
       <item itemvalue="Application.Solution (5)" />
+      <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -252,6 +249,21 @@
       <option name="presentableId" value="Default" />
       <updated>1531934548133</updated>
     </task>
+    <task id="LOCAL-00001" summary="makes10">
+      <created>1537450824604</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537450824604</updated>
+    </task>
+    <task id="LOCAL-00002" summary="makes10">
+      <created>1537451006452</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537451006452</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -266,12 +278,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32457292" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32457292" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.249375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.249375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -288,6 +300,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="makes10" />
+    <option name="LAST_COMMIT_MESSAGE" value="makes10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -482,12 +498,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Warmup-1/src/makes10/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="221">
+          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
           <folding>
             <element signature="e#299#300#0" expanded="true" />
             <element signature="e#352#353#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Warmup-1/src/notString/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
         </state>
       </provider>
     </entry>
