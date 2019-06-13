@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da938306-57ba-4ce3-9cde-9166e0194d26" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Warmup-1/src/delDel/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warmup-1/backAround/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Warmup-1/backAround/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warmup-1/close10/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Warmup-1/close10/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warmup-1/diff21/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Warmup-1/diff21/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warmup-1/everyNth/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Warmup-1/everyNth/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warmup-1/hasTeen/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Warmup-1/hasTeen/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warmup-1/missingChar/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Warmup-1/missingChar/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warmup-1/mixStart/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Warmup-1/mixStart/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warmup-1/nearHundred/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Warmup-1/nearHundred/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warmup-1/sleepIn/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Warmup-1/sleepIn/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warmup-1/startHi/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Warmup-1/startHi/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warmup-1/stringE/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Warmup-1/stringE/Solution.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,23 +23,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1090153374">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Warmup-1/src/front22/Solution.java">
+        <entry file="file://$PROJECT_DIR$/Warmup-1/src/delDel/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="201">
+              <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -68,14 +73,10 @@
         <option value="$PROJECT_DIR$/Warmup-1/src/notString/Solution.java" />
         <option value="$PROJECT_DIR$/Warmup-1/src/front3/Solution.java" />
         <option value="$PROJECT_DIR$/Warmup-1/src/front22/Solution.java" />
+        <option value="$PROJECT_DIR$/Warmup-1/src/in1020/Solution.java" />
+        <option value="$PROJECT_DIR$/Warmup-1/src/delDel/Solution.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -96,31 +97,26 @@
         <subPane>
           <expand>
             <path>
-              <item name="codingbat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
+              <item name="Codingbat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codingbat" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="codingbat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codingbat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
+              <item name="Codingbat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codingbat" type="462c0819:PsiDirectoryNode" />
               <item name="Warmup-1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="codingbat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
+              <item name="Codingbat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codingbat" type="462c0819:PsiDirectoryNode" />
               <item name="Warmup-1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="codingbat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
+              <item name="Codingbat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codingbat" type="462c0819:PsiDirectoryNode" />
               <item name="Warmup-1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="front22" type="462c0819:PsiDirectoryNode" />
+              <item name="delDel" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -130,6 +126,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -147,7 +144,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="front3.Solution" />
       <module name="Warmup-1" />
@@ -176,13 +173,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sumDouble.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in1020.Solution" />
       <module name="Warmup-1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sumDouble.*" />
+          <option name="PATTERN" value="in1020.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,13 +187,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="makes10.Solution" />
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="delDel.Solution" />
       <module name="Warmup-1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="makes10.*" />
+          <option name="PATTERN" value="delDel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,12 +222,14 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
@@ -239,19 +238,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (4)" />
-      <item itemvalue="Application.Solution (5)" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (2)" />
+      <item itemvalue="Application.Solution (3)" />
+      <item itemvalue="Application.Solution (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -266,6 +265,8 @@
       <option name="presentableId" value="Default" />
       <updated>1531934548133</updated>
       <workItem from="1541579514584" duration="581000" />
+      <workItem from="1559897508364" duration="508000" />
+      <workItem from="1560413473003" duration="666000" />
     </task>
     <task id="LOCAL-00001" summary="makes10">
       <created>1537450824604</created>
@@ -302,28 +303,33 @@
       <option name="project" value="LOCAL" />
       <updated>1537884974820</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="in1020">
+      <created>1559897930510</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1559897930510</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="581000" />
+    <option name="totallyTimeSpent" value="1755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2525707" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25899744" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Analysis" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32457292" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3236111" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39947438" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -332,8 +338,9 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3298292" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3298292" />
-      <window_info anchor="right" id="Find using jQA DB" side_tool="true" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Analysis" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -342,20 +349,21 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Find using jQA DB" order="8" side_tool="true" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Maven" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="makes10" />
     <MESSAGE value="notString" />
     <MESSAGE value="front3" />
     <MESSAGE value="front22" />
-    <option name="LAST_COMMIT_MESSAGE" value="front22" />
+    <MESSAGE value="in1020" />
+    <option name="LAST_COMMIT_MESSAGE" value="in1020" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -504,10 +512,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Warmup-1/src/in1020/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Warmup-1/src/front22/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="170">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Warmup-1/src/delDel/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
         </state>
       </provider>
     </entry>
