@@ -20,6 +20,7 @@ public class Solution {
 
     public static String extraFront(String str) {
         int length = (str.length() > 2) ? 2 : str.length();
-        return str.substring(0, length).repeat(3);
+        String res = str.substring(0, length);
+        return res + res + res;
     }
 }
