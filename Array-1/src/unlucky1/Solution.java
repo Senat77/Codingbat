@@ -19,7 +19,7 @@ public class Solution {
         System.out.println(unlucky1(new int[] {1, 1, 1}));
     }
 
-    public static boolean unlucky1(int[] nums) {
+    private static boolean unlucky1(int[] nums) {
         int lenght = nums.length;
         for(int i = 0; i < lenght - 1; i++) {
             if(nums[i] == 1 && nums[i + 1] == 3) {
